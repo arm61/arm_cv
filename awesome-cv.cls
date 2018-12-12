@@ -108,7 +108,7 @@
 %-------------------------------------------------------------------------------
 %% Page Layout
 % Configure page margins with geometry
-\geometry{left=1.0cm, top=0.5cm, right=1.0cm, bottom=1.0cm, footskip=.5cm}
+\geometry{left=1.5cm, top=1.0cm, right=1.5cm, bottom=1.5cm, footskip=.5cm}
 
 %% Header & Footer
 % Set offset to each header and offset
@@ -551,7 +551,7 @@
       {\entrypositionstyle{#1} & \entrydatestyle{#4} \\}
       {\entrytitlestyle{#2} & \entrylocationstyle{#3} \\
       \entrypositionstyle{#1} & \entrydatestyle{#4} \\}
-    \multicolumn{2}{L{19cm}}{\descriptionstyle{#5}} \\
+    \multicolumn{2}{L{18cm}}{\descriptionstyle{#5}} \\
   \end{tabular*}
 }
 
@@ -605,7 +605,7 @@
   \begin{center}
     \setlength\tabcolsep{0pt}
     \setlength{\extrarowheight}{0pt}
-    \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} C{2.cm} L{17.0cm}}
+    \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} C{2.cm} L{16.0cm}}
 }{
     \end{tabular*}
   \end{center}
@@ -620,7 +620,7 @@
 	\begin{center}
 		\setlength\tabcolsep{0pt}
 		\setlength{\extrarowheight}{3pt}
-		\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} C{1.cm} L{18.0cm}}
+		\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} C{1.cm} L{17.0cm}}
 		}{
 	\end{tabular*}
 \end{center}
