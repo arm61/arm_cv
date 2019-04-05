@@ -627,8 +627,8 @@
 \end{center}
 }
 
-\newcommand*{\cvpuby}[7]{
-	\begin{flushright}\honortitlestyle{#7}\ \ \ \ \end{flushright} & \honortitlestyle{#1}, \honortitlestyle{#2}, \emph{\honortitlestyle{#4}}, \honortitlestyle{#5}, \honortitlestyle{#3}. \honortitlestyle{#6}
+\newcommand*{\cvpuby}[6]{
+	\begin{flushright}\honortitlestyle{#6}\ \ \ \ \end{flushright} & \honortitlestyle{#1}, \emph{\honortitlestyle{#3}}, \honortitlestyle{#4}, \honortitlestyle{#2}. \honortitlestyle{#5}
 	\\
 }
 
